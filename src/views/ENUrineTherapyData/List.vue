@@ -2,7 +2,7 @@
   <div class="app-container">
     <el-card class="box-card">
       <div slot="header" class="clearfix">
-        <span>英语尿疗资料列表</span>
+        <span>English尿疗资料列表</span>
       </div>
       <el-form
         size="small"
